@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<university>
+    <student stid="001">
+        <firstname>Alexander</firstname>
+        <lastname>Banks</lastname>
+        <middlename>Mike</middlename>
+        <dateOfBirth>19.08.1994</dateOfBirth>
+        <gender>Male</gender>
+        <age>20</age>
+        <maritalStatus>Single</maritalStatus>
+        <degree>none</degree>
+        <highSchool>
+            <country>Austria</country>
+            <city>Vienna</city>
+            <schoolName>S.Freud Gymnasium</schoolName>
+            <graduationYear>2011</graduationYear>
+            <specialization>Math</specialization>
+        </highSchool>
+        <address>
+            <country>Czech Republic</country>
+            <city>Prague</city>
+            <area>Dejvice</area>
+            <street>Thakurova</street>
+            <buildingNumber>640/1</buildingNumber>
+            <flatNumber>305B</flatNumber>
+            <index>160 00</index>
+        </address>
+        <contactInfo>
+            <email type="private">banks.alex94@gmail.com</email>
+            <email type="university">alexander@pef.czu.cz</email>
+            <phoneNumber type="mobile">+420774388884</phoneNumber>
+            <phoneNumber type="work">778956432</phoneNumber>
+            <phoneNumber type="home">123456789</phoneNumber>
+            <phoneNumber type="fax">9475647382</phoneNumber>
+            <personalWebPage>none</personalWebPage>
+        </contactInfo>
+        <nationality>Austrian</nationality>
+        <faculty>PEF</faculty>
+        <studyProgram>
+            <programName degree="Bachelor">Informatics</programName>
+            <studyLanguage>English</studyLanguage>
+            <GPA>1.7</GPA>
+            <admissionYear>2013</admissionYear>
+            <semester>3</semester>
+            <creditsObtained>150</creditsObtained>
+            <coursesPassed>
+                <course type="Obligatory">
+                    <courseName>Programming 1</courseName>
+                    <credits>6</credits>
+                    <pointsObtained>86</pointsObtained>
+                    <grade>B</grade>
+                    <examResult>56</examResult>
+                    <teacher>L.Vagner</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>Web Design</courseName>
+                    <credits>4</credits>
+                    <pointsObtained>89</pointsObtained>
+                    <grade>B</grade>
+                    <examResult>49</examResult>
+                    <teacher>J.Masner</teacher>
+                </course>
+                <course type="Obligatory">
+                    <courseName>Software Engineering 1</courseName>
+                    <credits>5</credits>
+                    <pointsObtained>56</pointsObtained>
+                    <grade>E</grade>
+                    <examResult>21</examResult>
+                    <teacher>J.Trdlicka</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>User Interface Design</courseName>
+                    <credits>3</credits>
+                    <pointsObtained>100</pointsObtained>
+                    <grade>A</grade>
+                    <examResult>50</examResult>
+                    <teacher>M.Schmidt</teacher>
+                </course>
+            </coursesPassed>
+        </studyProgram>
+        <languageSpoken level="Native" certificate="C2">German</languageSpoken>
+        <languageSpoken level="Upper Advanced" certificate="C2">English</languageSpoken>
+        <languageSpoken level="Intermediate" certificate="B1">Czech</languageSpoken>
+        <languageSpoken level="Beginner" certificate="A1">Spanish</languageSpoken>
+        <entranceExamPassed>Yes</entranceExamPassed>
+        <scholarship>No</scholarship>
+        <tuitionFee>
+            <amount currency="CZK">15000</amount>
+            <status>Paid</status>
+        </tuitionFee>
+        <job type="temporary">Bartender at Friday's</job>
+        <family>
+            <parent type="father">
+                <firstname>Josh</firstname>
+                <lastname>Banks</lastname>
+                <middlename>Alexander</middlename>
+                <dateOfBirth>12.03.1971</dateOfBirth>
+                <contactInfo>
+                    <email type="private">michael81@gmail.com</email>
+                    <phoneNumber type="mobile">+8907712388884</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Austria</country>
+                    <city>Vienna</city>
+                    <area>Gottenschraben</area>
+                    <street>Schwarznegger</street>
+                    <buildingNumber>38</buildingNumber>
+                    <flatNumber>12A</flatNumber>
+                    <index>135127</index>
+                </address>
+            </parent>
+             <parent type="mother">
+                <firstname>Amily</firstname>
+                <lastname>Banks</lastname>
+                <middlename>Maria</middlename>
+                <maidenName>Weis</maidenName>
+                <dateOfBirth>12.06.1973</dateOfBirth>
+                <contactInfo>
+                    <email type="private">maria@gmail.com</email>
+                    <phoneNumber type="mobile">+13071234884</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Austria</country>
+                    <city>Vienna</city>
+                    <area>Gottenschraben</area>
+                    <street>Schwarznegger</street>
+                    <buildingNumber>38</buildingNumber>
+                    <flatNumber>12A</flatNumber>
+                    <index>135127</index>
+                </address>
+            </parent>
+            <sibling type="sister">
+                <firstname>Alina</firstname>
+                <lastname>Banks</lastname>
+                <middlename>Anna</middlename>
+                <maidenName>Banks</maidenName>
+                <dateOfBirth>16.12.2010</dateOfBirth>
+                <contactInfo>
+                    <email>none</email>
+                    <phoneNumber>none</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Austria</country>
+                    <city>Vienna</city>
+                    <area>Gottenschraben</area>
+                    <street>Schwarznegger</street>
+                    <buildingNumber>38</buildingNumber>
+                    <flatNumber>12A</flatNumber>
+                    <index>135127</index>
+                </address>
+            </sibling>
+        </family>
+    </student>
+    <student stid="002">
+        <firstname>Eric</firstname>
+        <lastname>Brian</lastname>
+        <middlename>Jim</middlename>
+        <dateOfBirth>13.08.1988</dateOfBirth>
+        <gender>Male</gender>
+        <age>26</age>
+        <maritalStatus>Married</maritalStatus>
+        <degree>Bachelor</degree>
+        <highSchool>
+            <country>Russia</country>
+            <city>Moscow</city>
+            <schoolName>Mendeleev High Schhol</schoolName>
+            <graduationYear>2007</graduationYear>
+            <specialization>Physics</specialization>
+        </highSchool>
+        <address>
+            <country>Czech Republic</country>
+            <city>Prague</city>
+            <area>Andel</area>
+            <street>Na Zatlance</street>
+            <buildingNumber>12/3</buildingNumber>
+            <flatNumber>316G</flatNumber>
+            <index>212 00</index>
+        </address>
+        <contactInfo>
+            <email type="private">mash.ribon@gmail.com</email>
+            <email type="university">heyman@pef.czu.cz</email>
+            <phoneNumber type="mobile">+420771926884</phoneNumber>
+            <phoneNumber type="work">6729182635</phoneNumber>
+            <phoneNumber type="home">987456321</phoneNumber>
+            <phoneNumber type="fax">0182736472</phoneNumber>
+            <personalWebPage>rajec.czu.cz</personalWebPage>
+        </contactInfo>
+        <nationality>Russian</nationality>
+        <faculty>PEF</faculty>
+        <studyProgram>
+            <programName degree="Bachelor">Management</programName>
+            <studyLanguage>English</studyLanguage>
+            <GPA>1.3</GPA>
+            <admissionYear>2012</admissionYear>
+            <semester>5</semester>
+            <creditsObtained>213</creditsObtained>
+            <coursesPassed>
+                <course type="Obligatory">
+                    <courseName>Management 1</courseName>
+                    <credits>6</credits>
+                    <pointsObtained>89</pointsObtained>
+                    <grade>B</grade>
+                    <examResult>13</examResult>
+                    <teacher>J.Travnicek</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>Psychology of Personality</courseName>
+                    <credits>3</credits>
+                    <pointsObtained>95</pointsObtained>
+                    <grade>A</grade>
+                    <examResult>56</examResult>
+                    <teacher>M.Kozak</teacher>
+                </course>
+                <course type="Obligatory">
+                    <courseName>Software Engineering 1</courseName>
+                    <credits>5</credits>
+                    <pointsObtained>56</pointsObtained>
+                    <grade>E</grade>
+                    <examResult>21</examResult>
+                    <teacher>J.Trdlicka</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>Design</courseName>
+                    <credits>3</credits>
+                    <pointsObtained>100</pointsObtained>
+                    <grade>A</grade>
+                    <examResult>50</examResult>
+                    <teacher>M.Valery</teacher>
+                </course>
+            </coursesPassed>
+        </studyProgram>
+        <languageSpoken level="Upper Advanced" certificate="C2">English</languageSpoken>
+        <languageSpoken level="Intermediate" certificate="B1">Czech</languageSpoken>
+        <languageSpoken level="Native" certificate="C2">Russian</languageSpoken>
+        <entranceExamPassed>Yes</entranceExamPassed>
+        <scholarship>Yes</scholarship>
+        <tuitionFee>
+            <amount currency="CZK">5000</amount>
+            <status>Not Paid</status>
+        </tuitionFee>
+        <job>none</job>
+        <family>
+            <parent type="father">
+                <firstname>Alexander</firstname>
+                <lastname>McQuinn</lastname>
+                <middlename>Boskonovich</middlename>
+                <dateOfBirth>12.03.1969</dateOfBirth>
+                <contactInfo>
+                    <email type="private">jimbo@gmail.com</email>
+                    <phoneNumber type="mobile">+2907747588884</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Russia</country>
+                    <city>Alexey</city>
+                    <area>Domovo</area>
+                    <street>Petrova</street>
+                    <buildingNumber>12</buildingNumber>
+                    <flatNumber>36</flatNumber>
+                    <index>160123</index>
+                </address>
+            </parent>
+             <parent type="mother">
+                <firstname>Natalia</firstname>
+                <lastname>Fedorova</lastname>
+                <middlename>none</middlename>
+                <maidenName>Ivanova</maidenName>
+                <dateOfBirth>1.11.1965</dateOfBirth>
+                <contactInfo>
+                    <email type="private">natalia@gmail.com</email>
+                    <phoneNumber type="mobile">+098712341284</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Russia</country>
+                    <city>Alexey</city>
+                    <area>Domovo</area>
+                    <street>Petrova</street>
+                    <buildingNumber>12</buildingNumber>
+                    <flatNumber>36</flatNumber>
+                    <index>160123</index>
+                </address>
+            </parent>
+        </family>
+    </student>
+    <student stid="003">
+        <firstname>Maria</firstname>
+        <lastname>Khalifa</lastname>
+        <middlename>none</middlename>
+        <dateOfBirth>19.08.1993</dateOfBirth>
+        <gender>Female</gender>
+        <age>21</age>
+        <maritalStatus>Single</maritalStatus>
+        <degree>none</degree>
+        <highSchool>
+            <country>USA</country>
+            <city>Los Angelos</city>
+            <schoolName>Riverside Hish School</schoolName>
+            <graduationYear>2012</graduationYear>
+            <specialization>Literature</specialization>
+        </highSchool>
+        <address>
+            <country>Czech Republic</country>
+            <city>Prague</city>
+            <area>Chodov</area>
+            <street>Masarykova</street>
+            <buildingNumber>612/2</buildingNumber>
+            <flatNumber>18C</flatNumber>
+            <index>170 10</index>
+        </address>
+        <contactInfo>
+            <email type="private">khalifa@gmail.com</email>
+            <email type="university">khalifa@pef.czu.cz</email>
+            <phoneNumber type="mobile">+420366388091</phoneNumber>
+            <phoneNumber type="work">432956432</phoneNumber>
+            <phoneNumber type="home">432456789</phoneNumber>
+            <phoneNumber type="fax">4325650382</phoneNumber>
+            <personalWebPage>none</personalWebPage>
+        </contactInfo>
+        <nationality>American</nationality>
+        <faculty>PEF</faculty>
+        <studyProgram>
+            <programName degree="Bachelor">Informatics</programName>
+            <studyLanguage>English</studyLanguage>
+            <GPA>2.7</GPA>
+            <admissionYear>2013</admissionYear>
+            <semester>4</semester>
+            <creditsObtained>142</creditsObtained>
+            <coursesPassed>
+                <course type="Obligatory">
+                    <courseName>Programming 1</courseName>
+                    <credits>6</credits>
+                    <pointsObtained>12</pointsObtained>
+                    <grade>F</grade>
+                    <examResult>56</examResult>
+                    <teacher>L.Vagner</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>Web Design</courseName>
+                    <credits>4</credits>
+                    <pointsObtained>58</pointsObtained>
+                    <grade>C</grade>
+                    <examResult>32</examResult>
+                    <teacher>J.Masner</teacher>
+                </course>
+                <course type="Obligatory">
+                    <courseName>Software Engineering 1</courseName>
+                    <credits>5</credits>
+                    <pointsObtained>56</pointsObtained>
+                    <grade>E</grade>
+                    <examResult>21</examResult>
+                    <teacher>J.Trdlicka</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>User Interface Design</courseName>
+                    <credits>3</credits>
+                    <pointsObtained>78</pointsObtained>
+                    <grade>B</grade>
+                    <examResult>50</examResult>
+                    <teacher>M.Schmidt</teacher>
+                </course>
+            </coursesPassed>
+        </studyProgram>
+        <languageSpoken level="Native" certificate="C2">English</languageSpoken>
+        <entranceExamPassed>Yes</entranceExamPassed>
+        <scholarship>No</scholarship>
+        <tuitionFee>
+            <amount currency="CZK">15000</amount>
+            <status>Paid</status>
+        </tuitionFee>
+        <job type="temporary">Bartender at Friday's</job>
+        <family>
+            <parent type="father">
+                <firstname>Abdullah</firstname>
+                <lastname>Khalifa</lastname>
+                <middlename>none</middlename>
+                <dateOfBirth>11.03.1968</dateOfBirth>
+                <contactInfo>
+                    <email type="private">michael81@gmail.com</email>
+                    <phoneNumber type="mobile">+8907712388884</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Austria</country>
+                    <city>Vienna</city>
+                    <area>Gottenschraben</area>
+                    <street>Schwarznegger</street>
+                    <buildingNumber>38</buildingNumber>
+                    <flatNumber>12A</flatNumber>
+                    <index>135127</index>
+                </address>
+            </parent>
+        </family>
+    </student>
+    <student stid="004">
+        <firstname>Michael</firstname>
+        <lastname>Jordan</lastname>
+        <middlename>Basketball</middlename>
+        <dateOfBirth>13.08.1982</dateOfBirth>
+        <gender>Male</gender>
+        <age>32</age>
+        <maritalStatus>Married</maritalStatus>
+        <degree>Master</degree>
+        <address>
+            <country>Czech Republic</country>
+            <city>Prague</city>
+            <area>Dejvice</area>
+            <street>Thakurova</street>
+            <buildingNumber>640/1</buildingNumber>
+            <flatNumber>305A</flatNumber>
+            <index>160 00</index>
+        </address>
+        <contactInfo>
+            <email type="university">jordan@pef.czu.cz</email>
+            <phoneNumber type="mobile">+420779380884</phoneNumber>
+            <personalWebPage>none</personalWebPage>
+        </contactInfo>
+        <nationality>Czech</nationality>
+        <faculty>FAP</faculty>
+        <languageSpoken level="Native" certificate="C2">Czech</languageSpoken>
+        <job type="permanent">Basketball Player</job>
+        <family>
+            <sibling type="Brother">
+                <firstname>Nicole</firstname>
+                <lastname>Jordan</lastname>
+                <middlename>Helen</middlename>
+                <maidenName>Jordan</maidenName>
+                <dateOfBirth>16.12.1993</dateOfBirth>
+                <contactInfo>
+                    <email>joradannd@jdui.cz</email>
+                    <phoneNumber>+9966996123</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Czech Republic</country>
+                    <city>Prague</city>
+                    <area>Dejvice</area>
+                    <street>Thakurova</street>
+                    <buildingNumber>640/1</buildingNumber>
+                    <flatNumber>305A</flatNumber>
+                    <index>160 00</index>
+                </address>
+            </sibling>
+        </family>
+    </student>
+    <student stid="005">
+        <firstname>Mario</firstname>
+        <lastname>Bros</lastname>
+        <middlename>Super</middlename>
+        <dateOfBirth>11.08.1983</dateOfBirth>
+        <gender>Male</gender>
+        <age>31</age>
+        <maritalStatus>Single</maritalStatus>
+        <degree>none</degree>
+        <highSchool>
+            <country>Italy</country>
+            <city>Rome</city>
+            <schoolName>Feticcio High School</schoolName>
+            <graduationYear>2008</graduationYear>
+            <specialization>Science</specialization>
+        </highSchool>
+        <address>
+            <country>Czech Republic</country>
+            <city>Prague</city>
+            <area>Mustek</area>
+            <street>Vaclvske namesti</street>
+            <buildingNumber>121/6</buildingNumber>
+            <flatNumber>98C</flatNumber>
+            <index>110 00</index>
+        </address>
+        <contactInfo>
+            <email type="private">supermariobros@gmail.com</email>
+            <email type="university">mario@pef.czu.cz</email>
+            <phoneNumber type="mobile">+112374111884</phoneNumber>
+            <phoneNumber type="home">75293801832</phoneNumber>
+            <personalWebPage>nintendo.jp</personalWebPage>
+        </contactInfo>
+        <nationality>Italian</nationality>
+        <faculty>PEF</faculty>
+        <studyProgram>
+            <programName degree="Bachelor">Informatics</programName>
+            <studyLanguage>English</studyLanguage>
+            <GPA>2.2</GPA>
+            <admissionYear>2012</admissionYear>
+            <semester>2</semester>
+            <creditsObtained>169</creditsObtained>
+            <coursesPassed>
+                <course type="Obligatory">
+                    <courseName>Programming 1</courseName>
+                    <credits>6</credits>
+                    <pointsObtained>66</pointsObtained>
+                    <grade>C</grade>
+                    <examResult>66</examResult>
+                    <teacher>L.Vagner</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>Web Design</courseName>
+                    <credits>4</credits>
+                    <pointsObtained>99</pointsObtained>
+                    <grade>A</grade>
+                    <examResult>59</examResult>
+                    <teacher>J.Masner</teacher>
+                </course>
+                <course type="Obligatory">
+                    <courseName>Software Engineering 1</courseName>
+                    <credits>5</credits>
+                    <pointsObtained>76</pointsObtained>
+                    <grade>B</grade>
+                    <examResult>41</examResult>
+                    <teacher>J.Trdlicka</teacher>
+                </course>
+                <course type="Elective">
+                    <courseName>User Interface Design</courseName>
+                    <credits>3</credits>
+                    <pointsObtained>80</pointsObtained>
+                    <grade>B</grade>
+                    <examResult>40</examResult>
+                    <teacher>M.Schmidt</teacher>
+                </course>
+            </coursesPassed>
+        </studyProgram>
+        <languageSpoken level="Native" certificate="C2">Italian</languageSpoken>
+        <languageSpoken level="Advanced" certificate="C1">English</languageSpoken>
+        <entranceExamPassed>Yes</entranceExamPassed>
+        <scholarship>Yes</scholarship>
+        <tuitionFee>
+            <amount currency="CZK">5000</amount>
+            <status>Paid</status>
+        </tuitionFee>
+        <job type="temporary">Game Developer at Dendy Inc.</job>
+        <family>
+            <parent type="father">
+                <firstname>Mauriccio</firstname>
+                <lastname>Mezzorilla</lastname>
+                <middlename>Domino</middlename>
+                <dateOfBirth>22.03.1965</dateOfBirth>
+                <contactInfo>
+                    <phoneNumber type="mobile">+8317794584</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Italy</country>
+                    <city>Rome</city>
+                    <area>Semio Palazzi</area>
+                    <street>Boticcelli</street>
+                    <buildingNumber>181</buildingNumber>
+                    <flatNumber>16</flatNumber>
+                    <index>9000086</index>
+                </address>
+            </parent>
+            <sibling type="sister">
+                <firstname>Angelica</firstname>
+                <lastname>Murizzo</lastname>
+                <middlename>Montana</middlename>
+                <maidenName>Belitelli</maidenName>
+                <dateOfBirth>18.11.1990</dateOfBirth>
+                <contactInfo>
+                    <email>angel@ghib.it</email>
+                    <phoneNumber>+81307060902</phoneNumber>
+                </contactInfo>
+                <address>
+                    <country>Italy</country>
+                    <city>Rome</city>
+                    <area>Semio Palazzi</area>
+                    <street>Boticcelli</street>
+                    <buildingNumber>181</buildingNumber>
+                    <flatNumber>16</flatNumber>
+                    <index>9000086</index>
+                </address>
+            </sibling>
+        </family>
+    </student>
+</university>
